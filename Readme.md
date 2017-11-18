@@ -14,4 +14,6 @@ For the Feather side, you need the following libraries in your `Arduino/librarie
 * [APA102](https://github.com/pololu/apa102-arduino)
 * [Servo](https://github.com/arduino-libraries/Servo), if it's not already installed.
 
+And move the `2017SHD_LED_SmartControl` folder to your `Arduino` folder.
+
 You also need to install the Feather board support package.
